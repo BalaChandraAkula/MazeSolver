@@ -1,4 +1,4 @@
-# Compress Decompress
+# Maze Solver
 
 ## About the project :
 
