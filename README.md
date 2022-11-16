@@ -13,7 +13,7 @@
 
 ## Screenshots
 
-### Red Mark was the End of Maze (Given By User)
+### Red Mark was the End Point (Given By User)
 
 ![Screenshot_20221115_162932](https://user-images.githubusercontent.com/115984987/201903762-023026d7-94bd-43d0-b557-33421b28455f.png)
 
