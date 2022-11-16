@@ -7,6 +7,10 @@
 ### - Implemented DFS algorithm to find the path from starting to ending point in maze.
 ### - Made the application using java swing and awt.
 
+## Author :
+## Bala Chandra Akula : [LinkedIn](https://www.linkedin.com/in/bala-chandra-akula-5808b3171/)
+
+
 ## Screenshots
 
 ### Red Mark was the End of Maze (Given By User)
